@@ -1,0 +1,14 @@
+# Compiled output
+bin/
+
+# Legacy flat-file accounts (contain plaintext usernames/passwords)
+*.txt
+
+# Database credentials - never commit this
+config.properties
+
+# Downloaded dependencies
+lib/
+
+# macOS
+.DS_Store
