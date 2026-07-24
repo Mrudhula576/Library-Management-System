@@ -96,7 +96,7 @@ private static final String PASSWORD = "<db-password>";
 
 Fill in your own PostgreSQL/Supabase connection details before running.
 
-> ⚠️ **Do not commit real credentials.** Replace them with placeholders (or read them from
+> **Do not commit real credentials.** Replace them with placeholders (or read them from
 > environment variables via `System.getenv(...)`) before pushing to GitHub. See
 > [Security](#security) below.
 
